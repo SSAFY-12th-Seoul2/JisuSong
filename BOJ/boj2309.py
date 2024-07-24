@@ -11,4 +11,5 @@ def seven(dw) :
 dw = seven(dw)
 dw.sort()
 for i in dw :
-    print(i)
+    print(i) 
+
