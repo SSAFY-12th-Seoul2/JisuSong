@@ -1,4 +1,4 @@
-def chicken(start): # depth : , start :
+def chicken(start): 
     global min_dis
     if len(stores) == m : # 상점의 개수가 m개인 경우
         tmp_dis = min_distance(homes,stores)
