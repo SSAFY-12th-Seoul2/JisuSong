@@ -79,3 +79,6 @@ home()
 min_dis = 2*n*len(homes)
 chicken(m)
 print(min_dis)
+
+## 순열/조합 참고 링크
+## https://velog.io/@kjyeon1101/%EC%BD%94%ED%85%8C-%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9%EA%B3%BC-%EC%88%9C%EC%97%B4%EC%A1%B0%ED%95%A9
